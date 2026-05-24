@@ -3506,7 +3506,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 
 # ─── ADMINS DEL BOT ───────────────────────────────────────────────────────────
 # Solo estos IDs pueden usar comandos de administrador, en cualquier servidor
-BOT_ADMINS = {741180286028611686, 1394877689482969149, 545797098541547520}
+BOT_ADMINS = {741180286028611686, 1394877689482969149, 545797098541547520, 1354324822649212989}
 
 # Usuarios con permiso solo para agregar/editar cartas
 CARD_EDITORS = {708037981784506378, 609468480860717056}
