@@ -3768,7 +3768,7 @@ bot = commands.Bot(command_prefix=[".", ","], intents=intents)
 
 # ─── ADMINS DEL BOT ───────────────────────────────────────────────────────────
 # Solo estos IDs pueden usar comandos de administrador, en cualquier servidor
-BOT_ADMINS = {741180286028611686, 1394877689482969149, 545797098541547520, 1354324822649212989}
+BOT_ADMINS = {741180286028611686, 1394877689482969149, 545797098541547520, 1354324822649212989, 1024714912582352907}
 LIGA_ADMINS = BOT_ADMINS | {483394201715867668}  # usuarios con acceso a comandos de jornada/liga
 
 # Usuarios con permiso solo para agregar/editar cartas
