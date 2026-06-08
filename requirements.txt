@@ -6,3 +6,4 @@ numpy
 yt-dlp
 mutagen
 requests
+spotdl
