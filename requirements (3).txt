@@ -1,0 +1,8 @@
+discord.py>=2.3.0
+aiohttp>=3.9.0
+Pillow
+deep-translator
+numpy
+yt-dlp
+mutagen
+requests
