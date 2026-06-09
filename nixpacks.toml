@@ -2,4 +2,7 @@
 nixPkgs = ["ffmpeg", "nodejs", "python3", "python3Packages.pip"]
 
 [phases.install]
-cmds = ["pip3 install -r requirements
+cmds = [
+  "pip3 install -r requirements.txt",
+  "pip3 install -U yt-dlp"
+]
