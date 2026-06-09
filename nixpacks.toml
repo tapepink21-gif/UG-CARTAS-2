@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ["ffmpeg", "nodejs"]
+nixPkgs = ["ffmpeg", "nodejs", "python3", "python3Packages.pip"]
 
 [phases.install]
-cmds = ["pip install -r requirements.txt", "pip install -U yt-dlp"]
+cmds = ["pip3 install -r requirements
