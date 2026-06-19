@@ -3,7 +3,7 @@ aiohttp>=3.9.0
 Pillow
 deep-translator
 numpy
-yt-dlp>=2025.6.30
+yt-dlp>=2026.6.9
 mutagen
 requests
 spotdl
