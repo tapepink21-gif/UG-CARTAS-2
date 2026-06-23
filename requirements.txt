@@ -8,3 +8,4 @@ mutagen
 requests
 spotdl
 bgutil-ytdlp-pot-provider
+boto3
