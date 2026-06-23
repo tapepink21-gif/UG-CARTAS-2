@@ -9,3 +9,4 @@ requests
 spotdl
 bgutil-ytdlp-pot-provider
 boto3
+PyNaCl
